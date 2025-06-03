@@ -5,7 +5,7 @@ Este proyecto es una API sencilla en Node.js + Express para gestionar **valoraci
 ## 🚀 Instalación
 
 ```bash
-git clone <repo-url> 
+git clone https://github.com/DiegoLanda26950/autoria-feedback.git 
 cd autoria-feedback
 npm install
 ```
